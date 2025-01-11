@@ -23,11 +23,3 @@ Usage: to apply the symbols located in the corners of each key, slide your finge
 | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" alt="Screenshot-1" /> | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" alt="Screenshot-2"/> | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" alt="Screenshot-3"/> |
 | --- | --- | --- |
 | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" alt="Screenshot-4" /> | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png" alt="Screenshot-5" /> | <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" alt="Screenshot-6" /> |
-
-## Similar apps
-* [Calculator++](https://git.bubu1.eu/Bubu/android-calculatorpp) - Calculator with a similar UX, swipe to corners for advanced math symbols and operators.
-
-## Contributing
-
-For instructions on building the application, see
-[Contributing](CONTRIBUTING.md).
